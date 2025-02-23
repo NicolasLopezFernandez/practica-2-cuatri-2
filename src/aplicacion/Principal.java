@@ -8,5 +8,5 @@ public class Principal {
     }
 }
 /*
-** No modificar el código anterior
+** No modificar el código anterior.
  */
