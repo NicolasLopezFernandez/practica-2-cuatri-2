@@ -5,7 +5,7 @@ public class matematicas {
     /**
      * * Genera una aproximación al número Pi mediante el método de
      * * Montecarlo. El parámetro `pasos` indica el número de puntos
-     * * generado.
+     * * generado.Hola
      */
     public static double generarNumeroPiRecursivo(long pasos) {
         return generarNumeroPiRecursivo(pasos,0);
